@@ -14,7 +14,11 @@
    
 ### Project Overview
 
-A road accident dashboard analysis in Tableau is an interactive visual tool designed to provide comprehensive insights into road accident data. The dashboard typically integrates various data sources to analyze accident trends, patterns, and risk factors, enabling users to make informed, data-driven decisions for road safety initiatives and accident prevention
+A road accident dashboard analysis in Tableau is an interactive visual tool designed to provide comprehensive insights into road accident data. The dashboard typically integrates various data sources to analyze accident trends, patterns, and risk factors, enabling users to make informed, data-driven decisions for road safety initiatives and accident prevention.
+
+![Dashboard](Road accident dashboard image.JPG)
+
+![Road accident dashboard](https://drive.google.com/file/d/1Wznig2lrXkuCxW-yYqbY3IqKgz43sRyM/view?usp=drive_link)
 
 ### Data Sources
 
