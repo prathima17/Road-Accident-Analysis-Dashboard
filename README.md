@@ -32,7 +32,7 @@ Road Accident Data: The primary dataset used for this analysis is the "accident 
 
 ### Data Cleaning/Preparation
 
-In the intial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, we performed the following tasks:
 1. Data loading and inspection.
 2. Handling the missing values.
 3. Data cleaning and formatting.
